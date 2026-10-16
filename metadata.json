@@ -1,0 +1,6 @@
+{
+  "name": "Cameroon Primary Curriculum Planner (MINEDUB 2018)",
+  "description": "Comprehensive curriculum planning system for Cameroon primary schools based on the 2018 MINEDUB curriculum and Bloom's taxonomy. Generates monthly programs, weekly timetables, and individual lesson plans for both Anglophone and Francophone subsystems with printable pedagogical documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
